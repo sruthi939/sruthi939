@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**sruthi939/sruthi939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sruthi — a developer, lifelong learner, and open-source enthusiast. Welcome to my GitHub profile! 👩‍💻
 
-Here are some ideas to get you started:
+### 🔭 Currently
+- Working on projects that explore web development and automation.
+- Building small apps to learn best practices, testing, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m learning
+- Modern JavaScript (ES6+), React, and TypeScript
+- Backend fundamentals with Node.js and REST APIs
+- Writing better tests and improving code quality
+
+### 👯 I’m looking to collaborate on
+- Open-source projects that welcome contributions and mentorship
+- Projects involving web apps, automation, or beginner-friendly tooling
+
+### 💬 Ask me about
+- JavaScript, Python, HTML/CSS
+- Git / GitHub workflows and open-source contribution basics
+
+### 🛠️ Skills & Tools
+- Languages: JavaScript, Python, HTML, CSS
+- Frameworks/Libraries: React, Express
+- Tools: Git, GitHub, npm, VS Code
+
+### 📂 Featured projects
+Check out my repositories to see what I'm building and learning:
+- https://github.com/sruthi939 (my repositories)
+
+### 📫 How to reach me
+- GitHub: https://github.com/sruthi939
+- Email: (add your email here)
+- LinkedIn / Twitter: (add links if you want)
+
+---
+
+If you'd like, I can personalize this further with your actual projects, a photo, or links. I can also add dynamic GitHub stats cards (stars, streaks) — tell me which you'd prefer and I'll update the README accordingly.
