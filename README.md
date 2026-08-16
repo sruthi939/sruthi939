@@ -65,47 +65,62 @@ console.log(sruthi.motto());
 
 ## 🛠️ Skills & Tools
 
-**Design Tools**
+### 🎨 Design Tools
+
 <div>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/FigJam-1E1E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FigJam-1E1E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-**UX Research & Process**
+<br/>
+
+### 🔍 UX Research & Process
+
 <div>
-<img src="https://img.shields.io/badge/User%20Interviews-70A5FD?style=flat-square&logo=googleforms&logoColor=white"/>
-<img src="https://img.shields.io/badge/Surveys-70A5FD?style=flat-square&logo=googleforms&logoColor=white"/>
-<img src="https://img.shields.io/badge/Persona%20Creation-BF91F3?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Journey%20Mapping-BF91F3?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireframing-38BDAE?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prototyping-38BDAE?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Usability%20Testing-C9D1D9?style=flat-square&logo=testinglibrary&logoColor=black"/>
-<img src="https://img.shields.io/badge/Accessibility%20(WCAG)-005A9C?style=flat-square&logo=accessibleicon&logoColor=white"/>
-<img src="https://img.shields.io/badge/Information%20Architecture-6A5ACD?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Card%20Sorting-6A5ACD?style=flat-square&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/User%20Research-70A5FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/User%20Interviews-70A5FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Surveys-70A5FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Persona%20Creation-BF91F3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Journey%20Mapping-BF91F3?style=flat-square"/>
 </div>
 
-**Front-End (Optional)**
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-38BDAE?style=flat-square&logo=responsive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireframing-38BDAE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prototyping-38BDAE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Usability%20Testing-C9D1D9?style=flat-square&logo=testinglibrary&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Accessibility%20(WCAG)-005A9C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Information%20Architecture-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Card%20Sorting-6A5ACD?style=flat-square"/>
 </div>
 
-**Collaboration Tools**
+<br/>
+
+### 💻 Front-End
+
 <div>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-38BDAE?style=flat-square"/>
+</div>
+
+<br/>
+
+### 🤝 Collaboration Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 </div>
 <br/>
 
