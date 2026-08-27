@@ -205,6 +205,9 @@ console.log(sruthi.motto());
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | _BSc Computer Science_ | _University Institiute of Technology, Tholicode_ | _2023-2026_ | _(CGPA)_ |
+| _HSC_ | _Leo Xlllth Higher Secondary School Pulluvila_ | _2021-2022_ | _(CGPA)_ |
+| _SSLC_ | _Leo XLllth Higher School Pulluvila_ | _2020_ | _(CGPA)_ |
+
 
 </div>
 
