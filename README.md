@@ -204,7 +204,7 @@ console.log(sruthi.motto());
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| _(e.g. B.Des / B.Tech / BCA)_ | _(College name)_ | _(Year)_ | _(CGPA)_ |
+| _BSc Computer Science_ | _University Institiute of Technology, Tholicode_ | _2023-2026_ | _(CGPA)_ |
 
 </div>
 
