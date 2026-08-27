@@ -228,7 +228,7 @@ console.log(sruthi.motto());
 
 <div align="center">
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sruthi-alex-b7784b37a/) · [Email](mailto:sruthialex47@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sruthi-alex-b7784b37a/) · [Email](mailto:sruthialex47@gmail.com) . [Vercel](https://vercel.com/sruthialex47-7979s-projects)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
